@@ -1,0 +1,135 @@
+ 
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header {
+    height:650px;
+    text-align: center;
+    padding: 20px;
+    background-image:url('https://static.zohocdn.com/sites/stock-images/images/discount/christmas-bg-1.jpg');
+    background-color:rgb(245, 138, 156);
+    color:white;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+}
+ 
+
+.header h1{
+    margin-top: 200px;
+}
+
+.shopping-btn{
+    background-color:white;
+    color:rgb(248, 93, 119);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.main {
+    text-align: center;
+    padding: 20px;
+    background-color: #fefefe;
+    /* color: #333; */
+}
+
+.title h2 {
+    font-size: 2.5em;
+    color:black;
+    margin-bottom: 10px;
+}
+
+.subtitle h3 {
+    font-size: 1.5em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:red;
+    margin-bottom: 20px;
+}
+
+.col-md-4{
+    display:inline-block;
+    max-width: 300px;
+    margin:30px;
+    background-color:rgb(247, 228, 234);
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.col-md-4 h4{
+    color: red;
+}
+
+.col-md-4 p{
+    color: black;
+}
+
+.col-md-4 img{
+    width: 100%;
+}
+
+.btn {
+    width: 50%;
+    background-color: #cf0909;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius:5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+.footer {
+    display: flex; 
+    justify-content: center;  
+    align-items: center;  
+    padding: 20px; 
+    background-color: #f4f4f4; 
+}
+
+.footer-content {
+    text-align: center;  
+    max-width: 600px; 
+}
+
+.footer-content img {
+    max-width: 100%;  
+    height: auto;  
+    margin-bottom: 20px;  
+}
+
+.footer-content h5 {
+    font-size: 1.5rem;  
+    margin: 10px 0;  
+}
+
+ .footer-content p {
+    font-size: 1rem;  
+    line-height: 1.6;  
+    margin: 10px 0; 
+}
+
+.border{
+    border: 2px solid;
+}
+
+.footer-btn{
+    background-color:#cf0909;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer-bottom {
+    background-color: #2c3e50;   
+    color: #fff;  
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.9em;  
+    border-top: 1px solid #444;  
+
+}
